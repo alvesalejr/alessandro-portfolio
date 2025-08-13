@@ -1,12 +1,13 @@
-# React + Vite
+# Portfólio – Alessandro Júnior
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Olá, seja bem-vindo(a).  
+Este é o meu portfólio, criado para reunir em um só lugar minhas experiências, habilidades e projetos, facilitando que todos conheçam melhor meu trabalho e meu potencial como desenvolvedor e analista de dados.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** – Biblioteca JavaScript para interfaces
+- **Vite** – Build tool rápida para desenvolvimento web
+- **Tailwind CSS** – Framework de estilização
+- **Framer Motion (motion/react)** – Animações e transições
+- **React Icons** – Ícones vetoriais
+- **GitHub Pages** – Hospedagem do site
