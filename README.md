@@ -5,9 +5,9 @@ Este é o meu portfólio, criado para reunir em um só lugar minhas experiência
 
 ## 🚀 Tecnologias utilizadas
 
-- **React** – Biblioteca JavaScript para interfaces
-- **Vite** – Build tool rápida para desenvolvimento web
-- **Tailwind CSS** – Framework de estilização
-- **Framer Motion (motion/react)** – Animações e transições
-- **React Icons** – Ícones vetoriais
-- **GitHub Pages** – Hospedagem do site
+- **React** 
+- **Vite** 
+- **Tailwind CSS** 
+- **Framer Motion (motion/react)** 
+- **React Icons** 
+- **GitHub Pages** 
